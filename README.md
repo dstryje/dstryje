@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**dstryje/dstryje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Software Engineer with 13+ years of experience designing and building enterprise software in the financial services and healthcare industries.
 
-Here are some ideas to get you started:
+## What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Distributed Systems
+- Platform Engineering
+- Cloud-Native Applications
+- Kubernetes
+- Docker
+- REST APIs
+- Event-Driven Architecture
+
+## Featured Project
+
+### GitHub Insights API
+
+A production-style Spring Boot application demonstrating:
+
+- Clean Architecture
+- GitHub API Integration
+- REST APIs
+- Testing
+- Caching
+- Docker
+- CI/CD
+- Enterprise development practices
+
+## Connect
+
+- LinkedIn
+- Resume
