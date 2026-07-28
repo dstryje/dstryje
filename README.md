@@ -16,20 +16,32 @@ Principal Software Engineer with 13+ years of experience designing, modernizing,
 
 ## Featured Project
 
-### GitHub Insights API
+## GitHub Insights API
 
-A production-style Spring Boot application demonstrating:
+Production-ready Spring Boot REST API showcasing enterprise backend engineering practices.
+
+Highlights
 
 - Clean Architecture
+- REST API Design
 - GitHub API Integration
-- REST APIs
-- Testing
 - Caching
 - Docker
-- CI/CD
-- Enterprise development practices
+- Unit & Integration Testing
+- GitHub Actions
+- Production Documentation
+
+## Current Focus
+
+- Enterprise Platform Engineering
+- Cloud-Native Java Development
+- Distributed Systems
+- Technical Leadership
 
 ## Connect
 
-- LinkedIn
-- Resume
+LinkedIn:
+https://linkedin.com/in/...
+
+Location:
+North Carolina
