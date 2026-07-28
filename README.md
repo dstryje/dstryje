@@ -1,7 +1,8 @@
-# Dan Stryjewski
+# Daniel Stryjewski
 
-Principal Software Engineer with 13+ years of experience designing, modernizing, and supporting enterprise Java platforms in the financial services and healthcare industries. Passionate about distributed systems, platform engineering, cloud-native architecture, and building reliable software at scale.
-## What I Work With
+Principal Software Engineer with 13+ years of experience designing, modernizing, and supporting enterprise Java platforms in the financial services and healthcare industries. Experienced in distributed systems, platform engineering, cloud-native applications, and building reliable software at enterprise scale.
+
+## Technologies
 
 - Java
 - Spring Boot
@@ -14,34 +15,37 @@ Principal Software Engineer with 13+ years of experience designing, modernizing,
 - Docker
 - CI/CD
 
+## Engineering Philosophy
+
+I enjoy solving complex technical problems and building software that is reliable, maintainable, and easy to evolve. Whether modernizing legacy applications or designing new services, I focus on clean architecture, practical solutions, and delivering software that provides long-term value.
+
 ## Featured Project
 
-## GitHub Insights API
+### GitHub Insights API
 
-Production-ready Spring Boot REST API showcasing enterprise backend engineering practices.
+A production-ready Spring Boot REST API demonstrating enterprise backend engineering practices.
 
-Highlights
+**Highlights**
 
 - Clean Architecture
 - REST API Design
 - GitHub API Integration
-- Caching
-- Docker
+- Response Caching
+- Docker Support
 - Unit & Integration Testing
-- GitHub Actions
-- Production Documentation
+- GitHub Actions CI/CD
+- Comprehensive Documentation
 
 ## Current Focus
 
-- Enterprise Platform Engineering
+- Platform Engineering
 - Cloud-Native Java Development
 - Distributed Systems
 - Technical Leadership
+- Enterprise Modernization
 
 ## Connect
 
-LinkedIn:
-https://linkedin.com/in/...
-
-Location:
-North Carolina
+- LinkedIn: https://www.linkedin.com/in/dan-stryjewski-167b30406
+- GitHub: https://github.com/dstryje
+- Location: North Carolina
