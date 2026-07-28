@@ -1,4 +1,4 @@
-# Daniel Stryjewski
+# Dan Stryjewski
 
 Principal Software Engineer with 13+ years of experience designing, modernizing, and supporting enterprise Java platforms in the financial services and healthcare industries. Passionate about distributed systems, platform engineering, cloud-native architecture, and building reliable software at scale.
 ## What I Work With
