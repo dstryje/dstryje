@@ -1,18 +1,18 @@
-# Hi, I'm Dan 👋
+# Daniel Stryjewski
 
-Principal Software Engineer with 13+ years of experience designing and building enterprise software in the financial services and healthcare industries.
-
+Principal Software Engineer with 13+ years of experience designing, modernizing, and supporting enterprise Java platforms in the financial services and healthcare industries. Passionate about distributed systems, platform engineering, cloud-native architecture, and building reliable software at scale.
 ## What I Work With
 
 - Java
 - Spring Boot
 - Distributed Systems
 - Platform Engineering
-- Cloud-Native Applications
+- Cloud-Native Architecture
+- REST APIs
+- Kafka
 - Kubernetes
 - Docker
-- REST APIs
-- Event-Driven Architecture
+- CI/CD
 
 ## Featured Project
 
